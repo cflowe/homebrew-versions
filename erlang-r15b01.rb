@@ -20,7 +20,7 @@ class ErlangR15HeadHtmls < Formula
   sha1 'd0ffd99be2ae219615f7a354ee9d1442e1a7'
 end
 
-class ErlangR15 < Formula
+class ErlangR15b01 < Formula
   homepage 'http://www.erlang.org'
   # Download tarball from GitHub; it is served faster than the official tarball.
   url 'https://github.com/erlang/otp/archive/OTP_R15B01.tar.gz'
